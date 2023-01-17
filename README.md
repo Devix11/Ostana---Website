@@ -1,8 +1,8 @@
-# The Harbor website
+# Ostana, Sito Web
 
 Sito Web su Ostana, un borgo in Piemonte
 
-## Tools
+## Descrizione del sito
 
 Il sito web che sto consegnando è stato sviluppato utilizzando le più recenti tecnologie web, tra cui Bootstrap, CSS, HTML e JavaScript. Bootstrap è stato utilizzato per creare un layout responsive e moderno, che si adatta perfettamente a tutti i dispositivi, dai computer desktop ai dispositivi mobili. CSS è stato utilizzato per personalizzare l'aspetto del sito, dai colori alle font, mentre HTML è stato utilizzato per strutturare il contenuto del sito.
 
