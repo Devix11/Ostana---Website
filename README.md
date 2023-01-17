@@ -25,8 +25,8 @@ In sintesi, questo sito web è una guida completa per chi vuole scoprire Ostana 
 ### Step 1: Clona il progetto
 
 ```sh
-git clone https://github.com/goharbor/website.git
-cd website
+gh repo clone Devix11/Ostana---Website
+cd html/
 ```
 
 ## Step 2: Installa Apache2
